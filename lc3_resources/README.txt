@@ -17,3 +17,7 @@ https://acg.cis.upenn.edu/milom/cse240-Fall06/pennsim/pennsim-guide.html
 Richard K. Squier page:
 
 https://people.cs.georgetown.edu/~squier/Teaching/HardwareFundamentals/LC3-trunk/
+
+LC3 tools reference page:
+
+https://people.cs.georgetown.edu/~squier/Teaching/HardwareFundamentals/LC3-trunk/docs/README-LC3tools.html
