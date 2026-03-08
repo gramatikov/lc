@@ -4,13 +4,7 @@ Online textbook content:
 
 https://highered.mheducation.com/sites/0072467509/
 
-The C compiler:
 
-https://highered.mheducation.com/sites/0072467509/student_view0/c_to_lc-3_compiler.html
-
-C compiler is based on:
-
-https://drh.github.io/lcc/
 
 
 PennSim intended for the LC3 here:
