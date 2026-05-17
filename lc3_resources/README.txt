@@ -1,4 +1,3 @@
-Here I mirror whatever content I find for the LC3.
 
 Online textbook content:
 
